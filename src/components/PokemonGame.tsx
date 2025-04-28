@@ -81,7 +81,6 @@ function PokemonGame() {
       {/* Mostrar el puntaje y los intentos */}
       <div className="mt-4 text-white">
         <p><strong>Puntaje:</strong> {score}</p>
-        <p><strong>Intentos:</strong> {attempts}</p>
       </div>
     </div>
   )
